@@ -1,15 +1,15 @@
 [
    {
-      "name":"Mi A1",
-      "brand":"Xiaomi",
-      "codename":"tissot",
-      "supported_versions":[
+      "brand": "OnePlus",
+      "codename": "kebab",
+      "name": "OP8T",
+      "supported_versions": [
          {
-            "version_code":"pie",
-            "version_name":"Pie",
-            "maintainer_name":"Joey Huab (Stallix)",
-            "maintainer_url":"",
-            "xda_thread":""
+            "maintainer_name": "Steaven Gross (apophis9283)",
+            "maintainer_url": "https://forum.xda-developers.com/m/apophis9283.4392154",
+            "version_code": "eleven",
+            "version_name": "eleven",
+            "xda_thread": "https://forum.xda-developers.com/t/rom-11-unofficial-oneplus-8t-evolution-x-aosp-2-5-2021.4209985"
          },
       ]
    }
